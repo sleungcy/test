@@ -1,0 +1,8 @@
+{
+  "name": "cf-route-service-dummy-app",
+  "description": "Simple Web Application for binding route of Delphi applications.",
+  "version": "1.0.5",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
